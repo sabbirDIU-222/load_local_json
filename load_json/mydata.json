@@ -1,0 +1,28 @@
+[
+  {
+    "name": "shimul",
+    "age": "25",
+    "gender": "male",
+    "skill" : "flutter"
+
+  },{
+    "name": "robiul",
+    "age": "25",
+    "gender": "male",
+    "skill" : "Technecian"
+
+  },{
+    "name": "shagor",
+    "age": "25",
+    "gender": "male",
+    "skill" : "react"
+
+  },{
+    "name": "ridwan",
+    "age": "25",
+    "gender": "male",
+    "skill" : "blockChain developer"
+
+  }
+
+]
